@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# S Paci's Portfolio
 
 Welcome to my personal portfolio website! This project is a representation of my skills, experiences, and creative endeavors. Feel free to explore and learn more about who I am and what I do.
 
