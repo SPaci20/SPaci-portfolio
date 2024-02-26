@@ -30,7 +30,6 @@ This portfolio website serves as a dynamic showcase of my professional journey, 
 - HTML5
 - CSS3
 - JavaScript
-- [Your chosen tech or framework]
 
 ## Getting Started
 
